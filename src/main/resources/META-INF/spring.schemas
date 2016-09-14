@@ -1,0 +1,2 @@
+http\://mybatis.org/schema/mybatis-spring2-1.2.xsd=../org/mybatis/spring2/config/mybatis-spring2-1.2.xsd
+http\://mybatis.org/schema/mybatis-spring2.xsd=../org/mybatis/spring2/config/mybatis-spring2-1.2.xsd
